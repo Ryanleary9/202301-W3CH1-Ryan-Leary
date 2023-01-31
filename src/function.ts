@@ -26,4 +26,4 @@ export qclass KingRank extends Personas {
     this.reigntime = reigntime;
     this.message = message;
   }
-}
+}a
