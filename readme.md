@@ -8,8 +8,6 @@ Typescript
 - .gitignore
 - package.json (Add Prettier)
 
-
-
 - Instalar dependencias desde package.json `npm i`
 - crear repo: `git init`
 - Install de eslint `npm i -D eslint`
