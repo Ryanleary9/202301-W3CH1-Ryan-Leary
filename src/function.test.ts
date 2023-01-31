@@ -27,4 +27,4 @@ describe('Given Personas class', () => {
 //     expect(r).toHaveProperty('reitime');
 //     expect(r).toHaveProperty('message');
 //   });
-// });
+// });a
