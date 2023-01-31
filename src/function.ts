@@ -11,12 +11,19 @@ export class Personas {
   }
 }
 
-// Class kingRank extends Personas {
-//   reigntime: number;
-//   message: string;
-//   constructor(reigntime: number, message: string) {
-//     super(names, bloodline, age, life);
-//     this.reigntime = reigntime;
-//     this.message = message;
-//   }
-// }
+export qclass KingRank extends Personas {
+  reigntime: number;
+  message: string;
+  constructor(
+    names: string,
+    bloodline: string,
+    age: number,
+    life: boolean,
+    reigntime: number,
+    message: string
+  ) {
+    super(names, bloodline, age, life);
+    this.reigntime = reigntime;
+    this.message = message;
+  }
+}
